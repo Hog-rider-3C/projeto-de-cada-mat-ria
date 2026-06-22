@@ -1,17 +1,28 @@
 # ⚙️ Desenvolvimento Back-end
 
 ## 📝 Descrição do Projeto/Atividade
-[Descreva brevemente o projeto prático que você escolheu colocar aqui. Ex: "Desenvolvimento de uma API RESTful para cadastro de usuários e controle de acessos, com criptografia de senhas (bcrypt) e geração de tokens JWT."]
+rodar live server
 
 ---
 
 ## 🧠 Reflexão de Aprendizado
 
 ### 1. O que aprendi?
-[Substitua este texto por sua resposta. Explique em suas palavras os conceitos de back-end que você aprendeu com esta atividade, tais como: lógica de servidor, rotas HTTP (GET, POST, PUT, DELETE), tratamento de requisições e respostas, uso de middlewares, segurança/criptografia, e integração com banco de dados.]
+O conjunto de protocolos TCP/IP:
 
-### 2. Para que serve (Por que aprendi)?
-[Substitua este texto por sua resposta. Explique qual o papel da lógica de servidor e das APIs em um ecossistema de software. Por que o desenvolvedor precisa garantir a integridade das regras de negócio e a segurança dos dados no back-end?]
+(Transmission Control Protocol/Internet Protocol) define como
+
+os dados são enviados e recebidos na internet.
+
+Ele é composto por quatro camadas principais:
+
+Aplicação, Transporte, Internet e Rede.
+
+Sua implementação permitiu a conexão de diferentes redes em um
+
+sistema unificado, garantindo a transmissão confiável
+
+de pacotes de dados.
 
 ---
 
