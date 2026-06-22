@@ -1,7 +1,7 @@
 # 🤖 Inteligência Artificial (IA)
 
 ## 📝 Descrição do Projeto/Atividade
-[Descreva brevemente o projeto prático que você escolheu colocar aqui. Ex: "Desenvolvimento de um classificador automático de sentimentos em avaliações de clientes utilizando a API do Google Gemini em Python."]
+Gerador de imagens por IA
 
 ---
 
