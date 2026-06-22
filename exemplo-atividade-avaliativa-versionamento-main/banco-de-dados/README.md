@@ -1,17 +1,17 @@
 # 🗄️ Banco de Dados
 
 ## 📝 Descrição do Projeto/Atividade
-[Descreva brevemente o projeto prático que você escolheu colocar aqui. Ex: "Criação do esquema de banco de dados relacional para um sistema de biblioteca escolar, incluindo modelagem entidade-relacionamento (DER), tabelas de relacionamento e consultas SQL com junções."]
+tabelas a serem relacionadas
 
 ---
 
 ## 🧠 Reflexão de Aprendizado
 
 ### 1. O que aprendi?
-[Substitua este texto por sua resposta. Explique em suas palavras os conceitos de banco de dados que você aprendeu com esta atividade, tais como: modelagem relacional, chaves primárias (PK) e estrangeiras (FK), integridade referencial, comandos DDL (CREATE, ALTER) e DML (SELECT, INSERT, UPDATE, DELETE), agrupamentos e junções (JOINs).]
+fazer modelagem em banco de dados e relacionar tabelas
 
 ### 2. Para que serve (Por que aprendi)?
-[Substitua este texto por sua resposta. Explique por que a persistência e a estruturação de dados são essenciais para aplicações de software. Qual o valor de saber projetar um banco de dados otimizado e realizar consultas eficientes?]
+aprender a mexer com esse tipo de programação
 
 ---
 
