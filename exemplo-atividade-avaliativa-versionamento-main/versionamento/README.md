@@ -8,11 +8,10 @@ Este projeto consiste na própria **gestão, organização e controle de versão
 ## 🧠 Reflexão de Aprendizado
 
 ### 1. O que aprendi?
-[Substitua este texto por sua resposta. Explique em suas palavras o que é e para que serve o padrão adotado neste projeto:]
-*   **Conventional Commits (Commits Convencionais):** [O que é e quais regras principais você seguiu para escrever mensagens de commits?]
+como rodar, commitar e mexer no GitHub
 
 ### 2. Para que serve (Por que aprendi)?
-[Substitua este texto por sua resposta. Por que grandes empresas e projetos open-source utilizam essa convenção de histórico? Como isso ajuda na colaboração de grandes equipes e no rastreamento de mudanças e bugs?]
+Importante e crucial para o entendimento e melhoria do projeto escolar da feira
 
 ---
 
